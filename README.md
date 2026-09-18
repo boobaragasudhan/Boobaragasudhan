@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**boobaragasudhan/Boobaragasudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI, FinTech & Backend Engineering enthusiast focused on turning ideas into useful products.
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building AI-powered SaaS products and exploring innovative solutions to real-world problems.
+
+## Tools I Use
+
+Python · Java · Spring Boot · Flask · React · Git · AI/ML
+
+## Reach Me
+
+GitHub · LinkedIn · Email
