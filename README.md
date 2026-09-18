@@ -1,15 +1,27 @@
-## About Me
+# Hey, I'm Booba 👋
 
-AI, FinTech & Backend Engineering enthusiast focused on turning ideas into useful products.
+I'm a backend-focused developer interested in **AI, FinTech, and building useful software**.
 
-## Currently Working On
+I like taking ideas from a simple problem and turning them into products that people can actually use. I'm especially interested in **SaaS, AI-powered applications, financial technology, and scalable backend systems**.
 
-Building AI-powered SaaS products and exploring innovative solutions to real-world problems.
+Currently, I'm exploring AI engineering, backend development, and product building while working on ideas that solve real-world problems.
 
-## Tools I Use
+My main tools are **Python, Java, Spring Boot, Flask, React, and AI/ML technologies**.
 
-Python · Java · Spring Boot · Flask · React · Git · AI/ML
+I enjoy experimenting with new ideas, learning how systems work, and building things that go beyond a simple demo.
 
-## Reach Me
+## What I'm Building
 
-GitHub · LinkedIn · Email
+- **RealValue Intelligence** — AI-powered economic intelligence platform
+- **Inmate** — Internship application automation platform
+- **Dynamic Learning Graph** — Interactive learning project
+
+## Current Goals
+
+Build innovative **SaaS products**, reach real users, and turn practical ideas into scalable products.
+
+## Find Me
+
+- [GitHub](https://github.com/boobaragasudhan)
+- [LinkedIn](https://www.linkedin.com/in/boobaragasudhan/)
+- Email: boobaragasudhan2006@gmail.com
