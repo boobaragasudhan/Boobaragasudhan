@@ -20,8 +20,4 @@ I enjoy experimenting with new ideas, learning how systems work, and building th
 
 Build innovative **SaaS products**, reach real users, and turn practical ideas into scalable products.
 
-## Find Me
 
-- [GitHub](https://github.com/boobaragasudhan)
-- [LinkedIn](https://www.linkedin.com/in/boobaragasudhan/)
-- Email: boobaragasudhan2006@gmail.com
